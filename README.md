@@ -4,8 +4,11 @@
 ### 环境准备
 
 1.需要Android SDK
+
 2.JDK1.8
+
 3.增加一个local.properties文件，设置android sdk路径：
+
 sdk.dir=D\:\\android-sdk-studio
 
 #### Windows下编译apk
