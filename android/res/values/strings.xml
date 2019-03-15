@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">荒野之王</string>
+    <string-array name="donation_google_catalog_values">
+        <item>1 Dollar</item>
+        <item>2 Dollars</item>
+        <item>5 Dollars</item>
+        <item>10 Dollars</item>
+        <item>15 Dollars</item>
+        <item>25 Dollars</item>
+        <item>50 Dollars</item>
+    </string-array>
+    <string name="loading">Loading……</string>
+
+    <string name="health_game_advice">
+   		 健康游戏忠告\n
+   		 抵制不良游戏，拒绝盗版游戏。\n注意自我保护，谨防受骗上当。\n
+   		 适度游戏益脑，沉迷游戏伤身。\n合理安排时间，享受健康生活。
+   	 </string>
+
+</resources>
